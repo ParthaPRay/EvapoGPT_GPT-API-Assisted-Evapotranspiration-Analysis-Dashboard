@@ -9,7 +9,7 @@
 #   !pip install -q gradio openai pandas requests matplotlib
 #
 # Colab execution:
-#   !python evapogpt_production_grade.py
+#   !python EvapoGPT.py
 #
 # Purpose:
 #   A Gradio-based research prototype for querying actual
