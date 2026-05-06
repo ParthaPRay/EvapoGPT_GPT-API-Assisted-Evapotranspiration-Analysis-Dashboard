@@ -589,22 +589,10 @@ Department of Computer Applications, Sikkim University, India.
 Assistant Professor
 Department of Computer Applications
 Sikkim University, India
+parthapratimray1986@gmail.com
 
 ---
 
-## License
-
-This project may be released under an open-source license such as the MIT License.
-
-Suggested license:
-
-```text
-MIT License
-```
-
-You may include a separate `LICENSE` file in the repository.
-
----
 
 ## Disclaimer
 
