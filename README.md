@@ -185,7 +185,7 @@ A typical repository may be organized as follows:
 ```text
 EvapoGPT/
 │
-├── evapogpt_production_grade.py
+├── EvapoGPT.py
 ├── README.md
 ├── requirements.txt
 ├── outputs/
@@ -197,7 +197,7 @@ EvapoGPT/
 The main executable file is:
 
 ```text
-evapogpt_production_grade.py
+EvapoGPT.py
 ```
 
 ---
@@ -222,7 +222,7 @@ pip install gradio openai pandas requests matplotlib
 Run the application:
 
 ```bash
-python evapogpt_production_grade.py
+python EvapoGPT.py
 ```
 
 ---
@@ -238,7 +238,7 @@ Install the required packages:
 Run the script:
 
 ```python
-!python evapogpt_production_grade.py
+!python EvapoGPT.py
 ```
 
 When running in Colab, the app launches a Gradio interface. If `share=True` is enabled, a temporary public URL is generated.
